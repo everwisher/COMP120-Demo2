@@ -2,3 +2,7 @@
 This is a demo video for the project of COMP120 Software Engineering Fundamentals
 
 ## To establish a new project, we always need a README.md file.
+
+Writing a ***README*** file is the most _**boring**_ thing in the world!!!
+
+Yes, nothing even more boring exists.
